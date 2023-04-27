@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skindiseasepredictorbot-omll",
+  "private_key_id": "9535f1134b52d4c31e81a1c129c25fba8b8a1806",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRpKBhGbcZ5zrC\n7H+kxt7PcXU4cg94PHtD+ovdUULLELRbpJJPSG4K02ppiYU/JhyO9nNLC0BtjyU9\n/eCs36b+R97vQh+olcB9Ib6kAhE8dK+YwBabw8kI1pTnEvZc1CRpb5aHJcFQUjLm\nDmYPpllBmTZEoIN5nin6wWrdcHB9Nk3zpTgZ0lNltSgOv+7Y5j4XWgl0TL3n8z+7\nt9pM59Z7CZZZR04P77U3SO+QruhD8Fe3R50QbwgaNOSWi4HIVc4bcSMwGOrM6IFQ\ns5nonmJsw4PltPnxV9TwQoNRi2ZOZUnjoxkoG1iUF8IULt3MOMz6W5tN9AEf8DUn\nXeurmCANAgMBAAECggEAIuwy6EH9obPGcuKtN8CGLNXYYlUD1TJ0EUSrKGzJPOUV\nOl/tnIXzCNwjkZ2eRAEACGOvHIztCGMsX8mLNBkUqy7DSSWBexapKF8m8BDFGMZS\nWxaCnaONeWqvhte+kQOo5iR31Z8ZNx1eS7sRzuEV5MrWQrPfevK5SQOP3wAESSMl\nv3PGs1BThiEiDidL/TwB/BmnpxmSMFALy2RmLXDXPvlL4z9GraHqj7IAu29crnMF\nvZI2vk+y6jHoR0h6I7M1A3wt9GXZcM30plH88JFJmShLTeaNEX4oEbg+0CjpqpQB\nWAfxJimB1iU10EAr4rLEMduW0dwuwJWQSpqrM5j0aQKBgQDtkaJdsWswbHdC1IIq\nVAzr8Qvx0pPJggLk8WT6ZvVHVMLntwv06KavNK48bwHOBBtDLJFbf8CHjcMDpp80\nehCnFITwSqogurXRy1y8i5zaK0YuWkTEGhweDz3RtdYZ09S+L1x8BS7nkOoKT+im\niUn1bo1qxjgk7M+951fM0jvBCQKBgQDh6FtDtzt758w9MLBxOJYoTthmrDpyGxhx\nvJt4sk5kr/9paq7QQnRn2ttEw4mWCq4b9Jd4xQn+zpxYfPUsZYeGq+l8ac1FCOKg\nIbrkgJQvYQl8ESkN/mlWzJA1n4lt895qjtmluOOK5Ax8S3V38W0VNuO0slFAfcIL\nglbHQSSb5QKBgEhnqHqxxh9+D2MY7YsFDuMiFiffrBcwPr2ULNh8ZKkW1khU65n7\nBkJD5g6ZLo2hhsWUYcDnUMB/nj4QnFkcEtM5V8L8nplXDm8gceUtD+MWaU9bR7YU\n1xj6QDcYGmbIvwAv4xoRYlhFPG9kJ14KXbYluYgfXaEzY6VXStUsBfYxAoGAHuOH\nfxXRw1ppecBrj7+eAHrvafKIt0tvJzYTyAgRYgESmlZk+sLrabvqGVfnOyXQsq/Z\n+kBu4nFbvVmwqFZllotxDHrm/1Z8rkqOZGoUWPoasuUhyPENdDnaSgq7XtZmhgls\nRxWlvzr5XhFvSWwwbyMnNXDgXUIUw0AaH3qPx+UCgYA26uSbHGAdJDoMikxLd9UK\n7KvU7hm+8Y3Zz55N1ghotbJARxgoz5jY1TIdN+lhnTVxnPUVSWiL+BnHq3pUtkri\nWg2824ZudHhxzlVF98CQObD1Q0nSa3kiz2F9FCYSWjv7SarGU5zrwvRXS74zVFT8\n1bnM6IDOPKjeI412UGUHeA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sdpbot@skindiseasepredictorbot-omll.iam.gserviceaccount.com",
+  "client_id": "112826026038237130614",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sdpbot%40skindiseasepredictorbot-omll.iam.gserviceaccount.com"
+}
